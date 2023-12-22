@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Derin Gezgin ====================================================================================================================================  Software Engineer -----------------  * 🌍  I'm based in Connecticut, United States * ✉️  You can contact me at [dgezgin@conncoll.edu](mailto:dgezgin@conncoll.edu) * 🧠  I'm learning Java | Backtesting.py | OpenCV | PyTorch * ⚡  I also play the piano and the trumpet.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Derin Gezgin
+Software Engineer
+
+* 🌍  I'm based in Connecticut, United States
+* ✉️  You can contact me at [dgezgin@conncoll.edu](mailto:dgezgin@conncoll.edu)
+* 🧠  I'm learning Java | Backtesting.py | OpenCV | PyTorch
+* ⚡  I also play the piano and the trumpet.
 
 ### Skills  
 
