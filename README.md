@@ -33,7 +33,7 @@ I am a member of the **Autonomous Agent Learning Lab** and the **Informatics Lab
 
 `Python` `Java` `R` `MATLAB` `Scheme` `LaTeX` `C++` `HTML/CSS/JS`
 
-`PyTorch` `TensorFlow` `OpenCV` `scikit-learn` `Selenium` `NumPy` `Pandas`
+`PyTorch` `TensorFlow` `OpenCV` `scikit-learn` `Selenium` `NumPy` `Pandas` `JAX` `Pgx`
 
 ---
 
