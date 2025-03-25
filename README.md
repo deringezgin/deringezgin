@@ -31,7 +31,7 @@ I am a member of the **Autonomous Agent Learning Lab** and the **Informatics Lab
 
 ## 🛠️ Tools I Use
 
-`Python` `Java` `R` `MATLAB` `Scheme` `C++` `HTML/CSS/JS`
+`Python` `Java` `R` `MATLAB` `Scheme` `LaTeX` `C++` `HTML/CSS/JS`
 
 `PyTorch` `TensorFlow` `OpenCV` `scikit-learn` `Selenium` `NumPy` `Pandas`
 
