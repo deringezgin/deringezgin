@@ -35,7 +35,7 @@ I am a member of the **Autonomous Agent Learning Lab** and the **Informatics Lab
 
 `PyTorch` `TensorFlow` `OpenCV` `scikit-learn` `Selenium` `NumPy` `Pandas` `JAX` `Pgx`
 
-`🇺🇸 English` `🇫🇷 French` `🇹🇷 Turkish`
+`🇺🇸 English: Fluent` `🇫🇷 French: Fluent` `🇹🇷 Turkish: Native`
 
 ---
 
