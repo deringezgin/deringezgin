@@ -50,7 +50,7 @@ When I find time outside of everything else I do, I play the 🎺 trumpet and th
 
 ## 📄 More Official
 
-[` CV `](Gezgin.Derin.CV) ~ [` Resume `](Gezgin.Derin.Resume)
+[` CV `](Gezgin.Derin.CV.pdf) ~ [` Resume `](Gezgin.Derin.Resume.pdf)
 
 ---
 
