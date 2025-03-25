@@ -22,7 +22,7 @@ I am a member of the **Autonomous Agent Learning Lab** and the **Informatics Lab
 
 ---
 
-## ✨ Contributing to Community 
+## ✨ Service in the CS Department
 
 - I am a Teaching Assistant for Computer Science courses *COM110: Intro to CS* and *COM212: Data Structures* 📚
 - I am the **Diversity Chair** on the Computer Science Student Advisory Board 💬
