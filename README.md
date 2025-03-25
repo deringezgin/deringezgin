@@ -48,9 +48,9 @@ When I find time outside of everything else I do, I play the 🎺 trumpet and th
 
 ---
 
-## 📄 More Official
+## 📄 Official Documents
 
-[` CV `](Gezgin.Derin.CV.pdf) ~ [` Resume `](Gezgin.Derin.Resume.pdf)
+[` CV `](Gezgin.Derin.CV.pdf) ~ [` Resume `](Gezgin.Derin.Resume.pdf) ~ [` _Redacted_ Transcript `](Gezgin.Derin.Transcript.pdf)
 
 ---
 
